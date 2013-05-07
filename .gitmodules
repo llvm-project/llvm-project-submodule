@@ -7,6 +7,9 @@
 [submodule "dragonegg"]
 	path = dragonegg
 	url = http://llvm.org/git/dragonegg.git
+[submodule "libcxx"]
+	path = libcxx
+	url = http://llvm.org/git/libcxx.git
 [submodule "llvm"]
 	path = llvm
 	url = http://llvm.org/git/llvm.git
