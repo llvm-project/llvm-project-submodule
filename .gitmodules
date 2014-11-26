@@ -31,6 +31,9 @@
 [submodule "lldb"]
 	path = lldb
 	url = http://llvm.org/git/lldb.git
+[submodule "llgo"]
+	path = llgo
+	url = http://llvm.org/git/llgo.git
 [submodule "llvm"]
 	path = llvm
 	url = http://llvm.org/git/llvm.git
