@@ -10,6 +10,9 @@
 [submodule "libcxx"]
 	path = libcxx
 	url = http://llvm.org/git/libcxx.git
+[submodule "lld"]
+	path = lld
+	url = http://llvm.org/git/lld.git
 [submodule "lldb"]
 	path = lldb
 	url = http://llvm.org/git/lldb.git
