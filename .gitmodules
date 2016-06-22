@@ -43,6 +43,9 @@
 [submodule "openmp"]
 	path = openmp
 	url = http://llvm.org/git/openmp.git
+[submodule "parallel-libs"]
+	path = parallel-libs
+	url = http://llvm.org/git/parallel-libs.git
 [submodule "polly"]
 	path = polly
 	url = http://llvm.org/git/polly.git
