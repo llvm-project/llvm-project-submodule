@@ -4,6 +4,9 @@
 [submodule "compiler-rt"]
 	path = compiler-rt
 	url = http://llvm.org/git/compiler-rt.git
+[submodule "libcxx"]
+	path = libcxx
+	url = http://llvm.org/git/libcxx.git
 [submodule "llvm"]
 	path = llvm
 	url = http://llvm.org/git/llvm.git
