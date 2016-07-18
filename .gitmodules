@@ -16,3 +16,6 @@
 [submodule "llvm"]
 	path = llvm
 	url = http://llvm.org/git/llvm.git
+[submodule "polly"]
+	path = polly
+	url = http://llvm.org/git/polly.git
