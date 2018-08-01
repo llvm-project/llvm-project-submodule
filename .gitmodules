@@ -13,6 +13,9 @@
 [submodule "libcxxabi"]
 	path = libcxxabi
 	url = http://llvm.org/git/libcxxabi.git
+[submodule "lldb"]
+	path = lldb
+	url = http://llvm.org/git/lldb.git
 [submodule "llvm"]
 	path = llvm
 	url = http://llvm.org/git/llvm.git
