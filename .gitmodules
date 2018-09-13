@@ -49,3 +49,6 @@
 [submodule "polly"]
 	path = polly
 	url = http://llvm.org/git/polly.git
+[submodule "pstl"]
+	path = pstl
+	url = http://llvm.org/git/pstl.git
